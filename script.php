@@ -1,5 +1,5 @@
 <?php
-	$usuario = "root";
+	$usuario = "jrgranada";
 	$contrasena = "Juan4409454";  // en mi caso tengo contraseña pero en casa caso introducidla aquí.
 	$servidor = "localhost";
 	$basededatos = "seminario";
