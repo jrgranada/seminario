@@ -1,7 +1,7 @@
 <?php
 	$usuario = "jrgranada";
 	$contrasena = "Juan4409454";  // en mi caso tengo contraseña pero en casa caso introducidla aquí.
-	$servidor = "localhost";
+	$servidor = "10.131.57.87";
 	$basededatos = "seminario";
 
 	$conexion = mysqli_connect( $servidor, $usuario, $contrasena) or die ("No se ha podido conectar al servidor de Base de datos");
